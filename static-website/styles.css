@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(29, 17, 3);
+}
+
+h1{
+    color: aqua;
+    
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
